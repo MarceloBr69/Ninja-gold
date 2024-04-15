@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#historial{
+	display: flex;
+	justify-content: center;
+	
+}
+textarea{
+	height: 40em;
+	width: 80em;	
+	
+}
+.container, #YourGold{
+	display: flex; 
+	justify-content: center;
+}
+#farm, #Cave, #House, #Casino{
+	border: solid black 2px; 
+	margin-left: 10em;
+	margin-right: 10em;
+}
